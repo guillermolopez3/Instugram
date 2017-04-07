@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Instugram</string>
+    <string name="title_activity_prueba">Prueba</string>
+    <string name="hint_user_name">Nombre de usuario</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="text_btn_login">LOGIN</string>
+    <string name="no_tienes_pass">¿No tienes una cuenta?, </string>
+    <string name="link_crear_cta">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirmar_pass">Confirmar contraseña</string>
+    <string name="text_create_account">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transitionNameCard_picture">transitionNamePicture</string>
+</resources>
